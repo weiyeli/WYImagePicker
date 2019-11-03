@@ -1,2 +1,2 @@
 # WYImagePicker
-A highly customized picture selector
+A highly customized picture selector built by SwiftUI.
